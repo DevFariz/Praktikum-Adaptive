@@ -53,3 +53,26 @@ body{
 }
 
 /* intro styles end */
+
+
+/* more styles start */
+
+.more-inner{
+    display: flex;
+    align-items: center;
+}
+
+.info-items{
+    display: flex;
+}
+
+.more-inner__img{
+    margin-right: 132px;
+}
+
+.info-item{
+    width: 150px;
+    margin-right: 95px;
+}
+
+/* more styles end */
